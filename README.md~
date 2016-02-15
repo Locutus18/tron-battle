@@ -1,5 +1,9 @@
 # tron-battle
 
+## Synopsis
+
+At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+
 ## The program
 
 In this game, each player controls a drone which moves continually, leaving a trail of light behind it. The aim is to prevent your drone from touching any of the trails for the longest time possible.
